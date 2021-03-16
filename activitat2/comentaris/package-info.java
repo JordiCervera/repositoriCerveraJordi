@@ -1,0 +1,1 @@
+package uf2.activitat2.comentaris;
